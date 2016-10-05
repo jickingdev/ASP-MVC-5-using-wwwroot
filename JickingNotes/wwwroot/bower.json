@@ -1,0 +1,21 @@
+{
+  "name": "jickingnotes",
+  "authors": [
+    "jicking <jdbebiro@gmail.com>"
+  ],
+  "description": "jickingnotes demo app, asp mvc 5 using wwwroot and bower",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://jickingnotes.blogspot.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
